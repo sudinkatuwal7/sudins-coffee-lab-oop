@@ -104,7 +104,7 @@ python main.py
 
 - Implement a GUI version
 
-# 👤 Author
+## 👤 Author
 
-## Sudin Katuwal
+### Sudin Katuwal
 
